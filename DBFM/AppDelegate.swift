@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  DBFM
-//
-//  Created by JackWee on 14-7-9.
-//  Copyright (c) 2014年 JackWee. All rights reserved.
-//
+
 
 import UIKit
 
